@@ -2,11 +2,11 @@
 
 **主要功能**：利用**InceptionV3**[[论文](https://arxiv.org/abs/1512.00567)]模型进行图像分类任务
 
-**环境**：**anaconda+Python3+tensorflow**
+**环境**：**anaconda+Python3+tensorflow2.0**
 
 **IDE**：**pycharm + jupyter notebook**
 
-
+**使用方法**: **直接运行gui.py，tf2可以直接打开，tf1需要把 import tensorflow.compat.v1 as tf 改一下**
 
 
 
