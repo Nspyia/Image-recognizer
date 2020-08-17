@@ -1,6 +1,6 @@
 # 1.项目简介
 
-**主要功能**：利用**InceptionV3**[[论文](https://arxiv.org/abs/1512.00567)]模型进行图像分类任务
+**主要功能**：利用tinker封装**InceptionV3**[[论文](https://arxiv.org/abs/1512.00567)]MOD进行图像分类的一个小Demo
 
 **环境**：**anaconda+Python3+tensorflow**
 
