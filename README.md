@@ -2,11 +2,11 @@
 
 **主要功能**：利用**InceptionV3**[[论文](https://arxiv.org/abs/1512.00567)]模型进行图像分类任务
 
-**环境**：**anaconda+Python3+tensorflow2.0**
+**环境**：**anaconda+Python3+tensorflow**
 
 **IDE**：**pycharm + jupyter notebook**
 
-**使用方法**: **直接运行gui.py，tf2可以直接打开，tf1需要把 import tensorflow.compat.v1 as tf 改一下**
+
 
 
 
@@ -198,11 +198,11 @@ def download_inception_model():
 - imagenet_synset_to_human_label_map.txt  
 - <!--每一行左边是一个编号，右边的字符串是这个编号对应的分类结果-->
 
-![image-20200401132142888](C:\Users\yxb\AppData\Roaming\Typora\typora-user-images\image-20200401132142888.png)
+![image-20200401132142888](images\image-20200401132142888.png)
 
 * imagenet_2012_challenge_label_map_proto.pbtx
 
-![image-20200401132154818](C:\Users\yxb\AppData\Roaming\Typora\typora-user-images\image-20200401132154818.png)
+![image-20200401132154818](images\image-20200401132154818.png)
 
 
 
@@ -321,7 +321,7 @@ class TensorflowPredictor():
 
 ### 3.4.1.运行图
 
-![image-20200401215811993](C:\Users\yxb\AppData\Roaming\Typora\typora-user-images\image-20200401215811993.png)
+![image-20200401215811993](images/image-20200401215811993.png)
 
 ### 3.4.2.代码
 
